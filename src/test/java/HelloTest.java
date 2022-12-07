@@ -4,5 +4,7 @@ public class HelloTest {
 
         System.out.println("Hello Test");
 
+        System.out.println("About to share project on GitHub");
+
     }
 }
